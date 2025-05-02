@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/13b8d4c2-d9f7-4eaf-ba14-bdbfcfd394d7)# Assignment-4-User-Testing-with-Selenium---Jose-G-Vallejo-Suvash-Shrestha
+<img src="https://github.com/user-attachments/assets/0e6b8cef-8ac2-41bb-96d6-ab74cb1a5dd0" alt="Diagram" width="200"/>
+
 **Assignment 4: User Testing with Selenium**
 
 Suvash Shrestha and Jose G. Vallejo
